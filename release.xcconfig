@@ -1,0 +1,7 @@
+SIGN_UP_URL      = imagecards.xyz/sign_up
+SIGN_IN_URL      = imagecards.xyz/sign_in
+IMAGE_DATA_URL   = imagecards.xyz/data
+SELECT_IMAGE_URL = imagecards.xyz/select_image
+IMAGES_URL       = imagecards.xyz/images
+EDIT_IMAGE_URL   = imagecards.xyz/edit_image
+HIDE_IMAGE_URL   = imagecards.xyz/hide_image

@@ -1,0 +1,7 @@
+SIGN_UP_URL      = localhost:5000/sign_up
+SIGN_IN_URL      = localhost:5000/sign_in
+IMAGE_DATA_URL   = localhost:5000/data
+SELECT_IMAGE_URL = localhost:5000/select_image
+IMAGES_URL       = localhost:5000/images
+EDIT_IMAGE_URL   = localhost:5000/edit_image
+HIDE_IMAGE_URL   = localhost:5000/hide_image

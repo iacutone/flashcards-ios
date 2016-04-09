@@ -1,0 +1,102 @@
+
+/* Class = "UITabBarItem"; title = "Cards"; ObjectID = "00z-5L-gZk"; */
+"00z-5L-gZk.title" = "Cards";
+
+/* Class = "UILabel"; text = "Sign In"; ObjectID = "3k4-ja-kEj"; */
+"3k4-ja-kEj.text" = "Sign In";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "7wv-f0-hSw"; */
+"7wv-f0-hSw.title" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "8sM-qP-Mbq"; */
+"8sM-qP-Mbq.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "Insert"; ObjectID = "AWn-y0-Qvj"; */
+"AWn-y0-Qvj.normalTitle" = "Insert";
+
+/* Class = "UITabBarItem"; title = "Add Card"; ObjectID = "B7D-Zb-oQU"; */
+"B7D-Zb-oQU.title" = "Add Card";
+
+/* Class = "UINavigationItem"; title = "Image Cards"; ObjectID = "Ca4-FK-Erd"; */
+"Ca4-FK-Erd.title" = "Image Cards";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "Cpc-va-3o4"; */
+"Cpc-va-3o4.placeholder" = "email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "H7d-FS-djB"; */
+"H7d-FS-djB.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Add Card"; ObjectID = "J4B-nh-UMg"; */
+"J4B-nh-UMg.title" = "Add Card";
+
+/* Class = "UINavigationItem"; title = "Images"; ObjectID = "J7k-Gn-k0M"; */
+"J7k-Gn-k0M.title" = "Images";
+
+/* Class = "UINavigationItem"; title = "Image Recall"; ObjectID = "JF0-tZ-4y6"; */
+"JF0-tZ-4y6.title" = "Image Recall";
+
+/* Class = "UILabel"; text = "Sign Up"; ObjectID = "Kwb-G3-1UX"; */
+"Kwb-G3-1UX.text" = "Sign Up";
+
+/* Class = "UINavigationItem"; title = "Image Cards"; ObjectID = "PBp-19-Hwf"; */
+"PBp-19-Hwf.title" = "Image Cards";
+
+/* Class = "UINavigationItem"; title = "Image Recall"; ObjectID = "QCE-N7-thW"; */
+"QCE-N7-thW.title" = "Image Recall";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "QDg-Rf-CN9"; */
+"QDg-Rf-CN9.normalTitle" = "Submit";
+
+/* Class = "UINavigationItem"; title = "Edit Image"; ObjectID = "RvP-yR-C9W"; */
+"RvP-yR-C9W.title" = "Edit Image";
+
+/* Class = "UITableViewSection"; headerTitle = "Image Name"; ObjectID = "ST8-BU-tRv"; */
+"ST8-BU-tRv.headerTitle" = "Image Name";
+
+/* Class = "UITabBarItem"; title = "Add Card"; ObjectID = "ScD-rm-vtd"; */
+"ScD-rm-vtd.title" = "Add Card";
+
+/* Class = "UITextField"; placeholder = "pick a word"; ObjectID = "TVk-ba-Q2Y"; */
+"TVk-ba-Q2Y.placeholder" = "pick a word";
+
+/* Class = "UIButton"; normalTitle = "Choose Image"; ObjectID = "UjN-PB-F1Q"; */
+"UjN-PB-F1Q.normalTitle" = "Choose Image";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "UzU-u6-ARv"; */
+"UzU-u6-ARv.placeholder" = "password";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "VVZ-1w-al5"; */
+"VVZ-1w-al5.placeholder" = "email";
+
+/* Class = "UIViewController"; title = "Sign In Controller"; ObjectID = "afT-zS-pDh"; */
+"afT-zS-pDh.title" = "Sign In Controller";
+
+/* Class = "UITabBarItem"; title = "Deck"; ObjectID = "dMj-Rd-jR0"; */
+"dMj-Rd-jR0.title" = "Deck";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "gNw-cB-RRJ"; */
+"gNw-cB-RRJ.placeholder" = "password";
+
+/* Class = "UITabBarItem"; title = "Deck"; ObjectID = "gRF-Zq-HyL"; */
+"gRF-Zq-HyL.title" = "Deck";
+
+/* Class = "UIButton"; normalTitle = "Take Photo"; ObjectID = "i6S-Wu-zIe"; */
+"i6S-Wu-zIe.normalTitle" = "Take Photo";
+
+/* Class = "UILabel"; text = "Tap"; ObjectID = "kvn-h0-h0h"; */
+"kvn-h0-h0h.text" = "Tap";
+
+/* Class = "UITabBarItem"; title = "Edit Cards"; ObjectID = "rqZ-2v-JuK"; */
+"rqZ-2v-JuK.title" = "Edit Cards";
+
+/* Class = "UITabBarItem"; title = "Cards"; ObjectID = "wD9-3n-HrW"; */
+"wD9-3n-HrW.title" = "Cards";
+
+/* Class = "UITabBarItem"; title = "Deck"; ObjectID = "xBI-36-85D"; */
+"xBI-36-85D.title" = "Deck";
+
+/* Class = "UIButton"; normalTitle = "Sign Up"; ObjectID = "xIt-9n-vu2"; */
+"xIt-9n-vu2.normalTitle" = "Sign Up";
+
+/* Class = "UIButton"; normalTitle = "Sign In"; ObjectID = "yeP-dV-bkE"; */
+"yeP-dV-bkE.normalTitle" = "Sign In";
