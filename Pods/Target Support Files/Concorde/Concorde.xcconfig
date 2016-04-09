@@ -1,0 +1,2 @@
+CONCORDE_LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/Concorde/vendor/libjpeg-turbo/lib"
+CONCORDE_OTHER_LDFLAGS = -l"turbojpeg" -framework "UIKit"
